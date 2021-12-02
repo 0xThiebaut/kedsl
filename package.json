@@ -1,0 +1,16 @@
+{
+  "name": "kedsl",
+  "version": "8.0.0-beta1",
+  "description": "A Kibana to Elastic Query DSL converter",
+  "main": "index.js",
+  "author": "0xThiebaut",
+  "license": "EUPL-1.2",
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "@types/yargs": "^17.0.7",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "yargs": "^17.3.0"
+  }
+}
